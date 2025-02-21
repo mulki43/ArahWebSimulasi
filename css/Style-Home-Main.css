@@ -778,32 +778,33 @@
 
 
     .tahap-tahap-B {
+        position:relative;
         margin-top: -1.5vw;
         margin-bottom: 3.72vw;
-        margin-left: -0.3vw;
+        margin-left: auto;
         width: 100%;
     }
     .tahap-1 {
         width: 11.17vw;
         height: auto;
         margin: auto; 
-        display: block;
+        display: flex;
     }
     .tahap-2 {
         width: 11.17vw;
         margin: auto; 
-        display: block;
+        display: flex;
     }
     .tahap-3 {
         width: 11.17vw;
         margin: auto; 
-        display: block;
+        display: flex;
     }
     .tahap-4 {
         width: 11.17vw;
         height: auto;
         margin: auto; 
-        display: block;
+        display: flex;
     }
     .tahap-image {
         display: block;
