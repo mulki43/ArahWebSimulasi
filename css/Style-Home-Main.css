@@ -781,7 +781,7 @@
         position:relative;
         margin-top: -1.5vw;
         margin-bottom: 3.72vw;
-        margin-left: auto;
+        margin-left: 1VW;
         width: 100%;
     }
     .tahap-1 {
@@ -825,7 +825,7 @@
         width: 21.96vw;
     }
     .kotak-kotak-utama-A {
-        margin-top: -1vw;
+        margin-top: -4vw;
     }
     .kotak-gambar-1 {
         margin-right: -21.962vw;
