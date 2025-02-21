@@ -102,18 +102,22 @@
     }
     .row3 {
         margin-top: 5vw;
-        margin-bottom: 7vw;
+        margin-bottom: 0vw;
         margin-left: 0vw;
         text-align: left;
     }
     .row3-maps {
-        width: 76vw;
-        height: 40vw;
+        width: 82vw;
+        height: 45vw;
     }
 
     .kotak-versi-1 {
         display: none;
     }
+    .isi-footer {
+        margin-left: -4vw;
+    }
+
 }
 
 @media (max-width: 575px) {
@@ -255,18 +259,22 @@
         margin-top: 5vw;
     }
     .row3 {
-        margin-top: 1.464vw;
-        margin-bottom: 7vw;
+        margin-top: 5vw;
+        margin-bottom: 0vw;
         margin-left: 0vw;
         text-align: left;
     }
     .row3-maps {
-        width: 76vw;
-        height: 40vw;
+        width: 82vw;
+        height: 45vw;
     }
 
     .kotak-versi-1 {
         display: none;
+    }
+
+    .footer-konten {
+        margin-left: -5vw;
     }
 }
 
@@ -430,6 +438,10 @@
         margin-left: 0vw;
     }
 
+    .footer-konten {
+        margin-left: auto;
+    }
+
 }
 
 @media (min-width: 768px) {
@@ -518,7 +530,9 @@
     .card-body {
         padding: 10px;
     }
-
+    .card-1 {
+        margin-bottom: 3vw;
+    }
 
     .service-1 {
         width: 32vw;
@@ -633,7 +647,7 @@
     .tahap-tahap-B {
         margin-top: 3.72vw;
         margin-bottom: 3.72vw;
-        margin-left: 0.1vw;
+        margin-left: -1vw;
         width: 100%;
     }
     .tahap-1 {
@@ -664,11 +678,12 @@
     }
     .card {
         height: 330px;
+        width: 237px;
     }
     .card-body {
         padding: 10px;
     }
-
+    
 
     .service-1 {
         width: 32vw;
@@ -765,7 +780,7 @@
     .tahap-tahap-B {
         margin-top: -1.5vw;
         margin-bottom: 3.72vw;
-        margin-left: 0.1vw;
+        margin-left: -0.3vw;
         width: 100%;
     }
     .tahap-1 {
@@ -798,6 +813,7 @@
     }
     .card {
         height: 350px;
+        width: 270px;
     }
     .card-body {
         padding: 10px;
@@ -892,7 +908,7 @@ body{
     font-family: "Helvetica", "Arial", sans-serif !important;
     font-weight: 700;
     font-size:0.9rem;
-    color: #555555;
+    color: #252525;
     margin-bottom: -4%;
     margin-top: -3%;
 }
